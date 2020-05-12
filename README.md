@@ -17,3 +17,7 @@ Se dette
 <iframe src="https://giphy.com/embed/JoIOHEOUrV1OZugEMv" width="480" height="256" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/JoIOHEOUrV1OZugEMv">via GIPHY</a></p>
 
 <iframe src="https://giphy.com/embed/UTBLHQds90s9QMk5HL" width="480" height="256" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/UTBLHQds90s9QMk5HL">via GIPHY</a></p>
+
+<iframe src="https://giphy.com/embed/YPz8U1fwR64d5RHAkl" width="480" height="256" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/YPz8U1fwR64d5RHAkl">via GIPHY</a></p>
+
+<iframe src="https://giphy.com/embed/UrnyxJmrg5x8qKJ2XY" width="480" height="256" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/UrnyxJmrg5x8qKJ2XY">via GIPHY</a></p>
