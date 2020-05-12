@@ -9,3 +9,11 @@ Link to website: https://peterholmsoe.github.io/Social_data_final_report/
 # Test
 
 <iframe src="https://covid19development.herokuapp.com/myapp2" width="800" height="600"></iframe>
+
+# Gifs
+
+<iframe src="https://giphy.com/embed/ciqNxtW6cxptauYrU9" width="480" height="256" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ciqNxtW6cxptauYrU9">via GIPHY</a></p>
+
+# Gifs
+
+<iframe src="https://giphy.com/embed/llCWoQ2IFdY2485ySu" width="480" height="256" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/llCWoQ2IFdY2485ySu">via GIPHY</a></p>
