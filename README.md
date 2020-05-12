@@ -6,7 +6,6 @@ Link to website: https://peterholmsoe.github.io/Social_data_final_report/
 
 <iframe src="https://trond123fred.herokuapp.com/interactive_map" width="800" height="600"></iframe>
 
-blablablalbbal
 # Test
 
 <iframe src="https://covid19development.herokuapp.com/myapp2" width="800" height="600"></iframe>
