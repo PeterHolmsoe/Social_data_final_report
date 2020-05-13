@@ -4,6 +4,14 @@ Link to website: https://peterholmsoe.github.io/Social_data_final_report/
 
 # Visualization of the covid-19 outbreak in the USA.
 
+The Corona virus has spread around the world. The first case of the virus was first reported in the Wuhan a city located in the Hubei provence in China. A we live in a globalised world, the virus has had the perfect conditions for spreading around the world. The first person who died in the U.S. was a 58-year old man February 29. 
+
+This article will give the reader an idea of how the virus has spread throughout the United States. 
+
+Lets first look at how the development of infected people has spread in the different states. 
+
+
+
 <p align="center">
 <iframe src="https://trond123fred.herokuapp.com/interactive_map" width="800" height="600"></iframe>
 </p>
