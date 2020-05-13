@@ -8,6 +8,12 @@ The Corona virus has spread around the world. The first case of the virus was fi
 
 This article will give the reader an idea of how the virus has spread throughout the United States. 
 
+
+![alt text](https://raw.githubusercontent.com/PeterHolmsoe/Social_data_final_report/master/death.png)
+![alt text](https://raw.githubusercontent.com/PeterHolmsoe/Social_data_final_report/master/ratio.png)
+![alt text](https://raw.githubusercontent.com/PeterHolmsoe/Social_data_final_report/master/posneg.png)
+
+
 Lets first look at how the development of infected people has spread in the different states. 
 
 <iframe src="https://giphy.com/embed/YPz8U1fwR64d5RHAkl" width="960" height="512" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
