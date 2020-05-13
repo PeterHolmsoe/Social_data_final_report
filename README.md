@@ -25,7 +25,7 @@ Se dette
 
 # Test
 
-<iframe src="https://covid19development.herokuapp.com/myapp2" width="800" height="600"></iframe>
+<iframe src="https://covid-development.herokuapp.com/myapp2" width="800" height="600"></iframe>
 
 # Gifs
 
