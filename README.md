@@ -1,6 +1,6 @@
 <p align="center">
 Link to website: https://peterholmsoe.github.io/Social_data_final_report/
-
+</p>
 
 # Visualization of the covid-19 outbreak in the USA.
 
@@ -23,4 +23,4 @@ Se dette
 <iframe src="https://giphy.com/embed/YPz8U1fwR64d5RHAkl" width="480" height="256" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/YPz8U1fwR64d5RHAkl">via GIPHY</a></p>
 
 <iframe src="https://giphy.com/embed/UrnyxJmrg5x8qKJ2XY" width="480" height="256" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/UrnyxJmrg5x8qKJ2XY">via GIPHY</a></p>
-</p>
+
