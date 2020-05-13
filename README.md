@@ -10,7 +10,7 @@ This article will give the reader an idea of how the virus has spread throughout
 
 Lets first look at how the development of infected people has spread in the different states. 
 
-<iframe src="https://giphy.com/embed/YPz8U1fwR64d5RHAkl" width="480*2" height="256*2" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe src="https://giphy.com/embed/YPz8U1fwR64d5RHAkl" width="960*2" height="512" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 ![alt text](https://raw.githubusercontent.com/PeterHolmsoe/Social_data_final_report/master/NY.png)
 ![alt text](https://raw.githubusercontent.com/PeterHolmsoe/Social_data_final_report/master/FL.png)
