@@ -24,16 +24,16 @@ Lets first look at how the development of infected people has spread in the diff
 Se dette
 
 # Test
-
+<p align="center">
 <iframe src="https://covid-development.herokuapp.com/myapp2" width="800" height="600"></iframe>
+</p>
 
 # Gifs
 
-<iframe src="https://giphy.com/embed/JoIOHEOUrV1OZugEMv" width="480" height="256" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/JoIOHEOUrV1OZugEMv">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/JoIOHEOUrV1OZugEMv" width="960" height="512" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/JoIOHEOUrV1OZugEMv">via GIPHY</a></p>
 
-<iframe src="https://giphy.com/embed/UTBLHQds90s9QMk5HL" width="480" height="256" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/UTBLHQds90s9QMk5HL">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/UTBLHQds90s9QMk5HL" width="960" height="512" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/UTBLHQds90s9QMk5HL">via GIPHY</a></p>
 
 
-
-<iframe src="https://giphy.com/embed/UrnyxJmrg5x8qKJ2XY" width="480" height="256" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe src="https://giphy.com/embed/UrnyxJmrg5x8qKJ2XY" width="960" height="512" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
