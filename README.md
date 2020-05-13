@@ -12,9 +12,10 @@ Lets first look at how the development of infected people has spread in the diff
 
 <iframe src="https://giphy.com/embed/UrnyxJmrg5x8qKJ2XY" width="480" height="256" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/UrnyxJmrg5x8qKJ2XY">via GIPHY</a></p>
 
-
+![alt text](https://raw.githubusercontent.com/PeterHolmsoe/Social_data_final_report/master/NY.png)
+![alt text](https://raw.githubusercontent.com/PeterHolmsoe/Social_data_final_report/master/FL.png)
 ![alt text](https://raw.githubusercontent.com/PeterHolmsoe/Social_data_final_report/master/CA.png)
-
+![alt text](https://raw.githubusercontent.com/PeterHolmsoe/Social_data_final_report/master/TX.png)
 
 <p align="center">
 <iframe src="https://trond123fred.herokuapp.com/interactive_map" width="800" height="600"></iframe>
