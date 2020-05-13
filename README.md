@@ -8,9 +8,18 @@ The Corona virus has spread around the world. The first case of the virus was fi
 
 This article will give the reader an idea of how the virus has spread throughout the United States. 
 
+The first plot illustrates the distribution of death people in the different US states. Of course this can give a twisted view of how the different states are handeling the virus. It's clear that the state of New York has the most cases of COVID-19. In the next plot, the data has been normalized based on the population in the states, and it gives a better picture of how "good" the different states are handeling the virus outbreak. 
+
 
 ![alt text](https://raw.githubusercontent.com/PeterHolmsoe/Social_data_final_report/master/death.png)
 ![alt text](https://raw.githubusercontent.com/PeterHolmsoe/Social_data_final_report/master/ratio.png)
+
+Again, we see that New York is the worst, however, many factors are involved, eg. population density and poverty. These factors can be in explored in the following interactive map. 
+
+
+
+
+
 ![alt text](https://raw.githubusercontent.com/PeterHolmsoe/Social_data_final_report/master/posneg.png)
 
 
