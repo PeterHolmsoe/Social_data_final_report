@@ -18,14 +18,14 @@ Lets first look at how the development of infected people has spread in the diff
 ![alt text](https://raw.githubusercontent.com/PeterHolmsoe/Social_data_final_report/master/TX.png)
 
 <p align="center">
-<iframe src="https://trond123fred.herokuapp.com/interactive_map" width="800" height="600"></iframe>
+<iframe src="https://trond123fred.herokuapp.com/interactive_map" width="800" height="525"></iframe>
 </p>
 
 Se dette
 
 # Test
 <p align="center">
-<iframe src="https://covid-development.herokuapp.com/myapp2" width="800" height="600"></iframe>
+<iframe src="https://covid-development.herokuapp.com/myapp2" width="750" height="525"></iframe>
 </p>
 
 # Gifs
