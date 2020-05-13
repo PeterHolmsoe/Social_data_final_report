@@ -16,7 +16,9 @@ The first plot illustrates the distribution of death people in the different US 
 
 Again, we see that New York is the worst, however, many factors are involved, eg. population density and poverty. These factors can be in explored in the following interactive map. 
 
-
+<p align="center">
+<iframe src="https://demo-map-us.herokuapp.com/pop-notebook" width="800" height="525"></iframe>
+</p>
 
 
 
