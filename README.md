@@ -20,6 +20,8 @@ Again, we see that New York is the worst, however, many factors are involved, eg
 <iframe src="https://demo-map-us.herokuapp.com/pop-notebook" width="800" height="525"></iframe>
 </p>
 
+## Politcal testing strategy
+
 The test strategy is high in New York (NY), this makes sense since they are the worst affected state. However, it's interesting to notice how California (CA) performes many tests even though the spread of the virus isn't that severe in that state.  
 
 ![alt text](https://raw.githubusercontent.com/PeterHolmsoe/Social_data_final_report/master/posneg.png)
@@ -34,14 +36,27 @@ We see how New York suddenly goes very dark, and how the virus quickly can get o
 ![alt text](https://raw.githubusercontent.com/PeterHolmsoe/Social_data_final_report/master/NY.png)
 ![alt text](https://raw.githubusercontent.com/PeterHolmsoe/Social_data_final_report/master/CA.png)
 
+## Explore the spread
+
+In the interactive map under, you can yourself see the spread of COVID-19 in the different US state. 
+
+(For the teacher: The plot is served on a Heroku serve, which is not super fast. If it doesn't work, reload the page and wait a minut or two)
 
 <p align="center">
 <iframe src="https://trond123fred.herokuapp.com/interactive_map" width="800" height="525"></iframe>
 </p>
 
-Se dette
 
-# Test
+
+## Explore the death
+
+In the following interactive graph, you can see how the deaths due to COVID-19 has developed in the different states. 
+
+<p align="center">
+<iframe src="https://cover-death.herokuapp.com/myapp3" width="750" height="525"></iframe>
+</p>
+
+# Falttening the curve - how machine learning lets us know when to loosen regulative initiatives
 
 When talking about flattening the curve, the idea is that it is desired to minimize the number of Corona infections such that the health care capacity can handle the extra load that COVID-19 is causing. It is wellknown that an epidemic like the corona virus grows exponentially in the beginning before it starts to slow down. As humans, it is hard to wrapping your head around exponentially growth as it is hard to realize how fast an epidemic grows and locate when the growth might start to slow down. One of the big questions people might wonder is if each state is lowering the number of infections over time or that the growth of COVID-19 is still exponential. This question alone is hard to answer from simple plots like the ones seen previously in this article, which is the main motivation behind the following graph:
 
@@ -58,12 +73,6 @@ This graph gives insights into whether of not each state is starting to get the 
 
 One can compare different states current status on COVID-19 using this graph. It can be seen that a state like New York was following an exponential growth of COVID-19 the first 6 weeks of infections, but it has seen improvements in the last couple weeks and the prediction two weeks into the future also predicts that the exponential growth is slowing down. One can also look at Hawaii which was on an exponential path the first 4 weeks of the epidemic but was super effective at reducing the number of new infections as the line starts to plummet. Many states such as Iowa, California, Arizona and others still seems to be on the path of exponential growth and should probably consider tightening the public health regulations.	
 
-
-
-# Test
-<p align="center">
-<iframe src="https://cover-death.herokuapp.com/myapp3" width="750" height="525"></iframe>
-</p>
 
 # Gifs
 
