@@ -20,6 +20,11 @@ Again, we see that New York is the worst, however, many factors are involved, eg
 <iframe src="https://demo-map-us.herokuapp.com/pop-notebook" width="800" height="525"></iframe>
 </p>
 
+COVID-19 is very dangerous, and before reading on this article, keep in mind how the development of casualties due to COVID-19 has developed in the US:
+
+<iframe src="https://giphy.com/embed/UrnyxJmrg5x8qKJ2XY" width="960" height="512" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+
 ## Politcal testing strategy
 
 The test strategy is high in New York (NY), this makes sense since they are the worst affected state. However, it's interesting to notice how California (CA) performes many tests even though the spread of the virus isn't that severe in that state.  
@@ -74,12 +79,5 @@ This graph gives insights into whether of not each state is starting to get the 
 One can compare different states current status on COVID-19 using this graph. It can be seen that a state like New York was following an exponential growth of COVID-19 the first 6 weeks of infections, but it has seen improvements in the last couple weeks and the prediction two weeks into the future also predicts that the exponential growth is slowing down. One can also look at Hawaii which was on an exponential path the first 4 weeks of the epidemic but was super effective at reducing the number of new infections as the line starts to plummet. Many states such as Iowa, California, Arizona and others still seems to be on the path of exponential growth and should probably consider tightening the public health regulations.	
 
 
-# Gifs
 
-<iframe src="https://giphy.com/embed/JoIOHEOUrV1OZugEMv" width="960" height="512" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/JoIOHEOUrV1OZugEMv">via GIPHY</a></p>
-
-<iframe src="https://giphy.com/embed/UTBLHQds90s9QMk5HL" width="960" height="512" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/UTBLHQds90s9QMk5HL">via GIPHY</a></p>
-
-
-<iframe src="https://giphy.com/embed/UrnyxJmrg5x8qKJ2XY" width="960" height="512" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
