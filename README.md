@@ -8,7 +8,7 @@ The Corona virus has spread around the world. The first case of the virus was fi
 
 This article will give the reader an idea of how the virus has spread throughout the United States. 
 
-The first plot illustrates the distribution of death people in the different US states. Of course this can give a twisted view of how the different states are handeling the virus. It's clear that the state of New York has the most cases of COVID-19. In the next plot, the data has been normalized based on the population in the states, and it gives a better picture of how "good" the different states are handeling the virus outbreak. 
+The first plot illustrates the distribution of dead people in the different US states. Of course this can give a twisted view of how the different states are handeling the virus. It's clear that the state of New York has the most cases of COVID-19. In the next plot, the data has been normalized based on the population in the states, and it gives a better picture of how "good" the different states are handeling the virus outbreak. 
 
 
 ![alt text](https://raw.githubusercontent.com/PeterHolmsoe/Social_data_final_report/master/death.png)
@@ -28,6 +28,8 @@ The test strategy is high in New York (NY), this makes sense since they are the 
 Lets look at how the development of infected people has spread in the different states. 
 
 <iframe src="https://giphy.com/embed/YPz8U1fwR64d5RHAkl" width="960" height="512" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+We see how New York suddenly goes very dark, and how the virus quickly can get out of control. In the following two plots, we see the development of tests performed in New York and California since the first outbreak was detected. California has learned from New York, and we see in the graph how political initiatives to boost the testing is made with the steep increase in testing around day 73, 86 and 91.   
 
 ![alt text](https://raw.githubusercontent.com/PeterHolmsoe/Social_data_final_report/master/NY.png)
 ![alt text](https://raw.githubusercontent.com/PeterHolmsoe/Social_data_final_report/master/CA.png)
