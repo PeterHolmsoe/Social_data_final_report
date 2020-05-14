@@ -20,19 +20,18 @@ Again, we see that New York is the worst, however, many factors are involved, eg
 <iframe src="https://demo-map-us.herokuapp.com/pop-notebook" width="800" height="525"></iframe>
 </p>
 
-
+The test strategy is high in New York (NY), this makes sense since they are the worst affected state. However, it's interesting to notice how California (CA) performes many tests even though the spread of the virus isn't that severe in that state.  
 
 ![alt text](https://raw.githubusercontent.com/PeterHolmsoe/Social_data_final_report/master/posneg.png)
 
 
-Lets first look at how the development of infected people has spread in the different states. 
+Lets look at how the development of infected people has spread in the different states. 
 
 <iframe src="https://giphy.com/embed/YPz8U1fwR64d5RHAkl" width="960" height="512" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 ![alt text](https://raw.githubusercontent.com/PeterHolmsoe/Social_data_final_report/master/NY.png)
-![alt text](https://raw.githubusercontent.com/PeterHolmsoe/Social_data_final_report/master/FL.png)
 ![alt text](https://raw.githubusercontent.com/PeterHolmsoe/Social_data_final_report/master/CA.png)
-![alt text](https://raw.githubusercontent.com/PeterHolmsoe/Social_data_final_report/master/TX.png)
+
 
 <p align="center">
 <iframe src="https://trond123fred.herokuapp.com/interactive_map" width="800" height="525"></iframe>
