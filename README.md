@@ -20,6 +20,8 @@ Again, we see that New York is the worst, however, many factors are involved, eg
 <iframe src="https://demo-map-us.herokuapp.com/pop-notebook" width="800" height="525"></iframe>
 </p>
 
+The above graph contains a wide range of information about each state such as average income, poverty, unemployement rate, gender distribution and race distribution. The important takeaway from this plot is the color coded population density, as a state with a high population density is far more in the risk zone of spreading an epidimic compared to a low population density. The effect of a high population density on the spread of covid-19 can especially be seen in the state of New York, as this is one of the states with a high population density, where the outbreak has been worst. 
+
 COVID-19 is very dangerous, and before reading on this article, keep in mind how the development of casualties due to COVID-19 has developed in the US:
 
 <iframe src="https://giphy.com/embed/UrnyxJmrg5x8qKJ2XY" width="960" height="512" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
