@@ -4,11 +4,11 @@ Link to website: https://peterholmsoe.github.io/Social_data_final_report/
 
 # Visualization of the covid-19 outbreak in the USA.
 
-The Corona virus has spread around the world. The first case of the virus was first reported in the Wuhan a city located in the Hubei provence in China. A we live in a globalised world, the virus has had the perfect conditions for spreading around the world. The first person who died in the U.S. was a 58-year old man February 29. 
+The Corona virus has spread around the world. The first case of the virus was first reported in the Wuhan a city located in the Hubei province in China. A we live in a globalized world, the virus has had the perfect conditions for spreading around the world. The first person who died in the U.S. was a 58-year old man February 29. 
 
 This article will give the reader an idea of how the virus has spread throughout the United States. 
 
-The first plot illustrates the distribution of dead people in the different US states. Of course this can give a twisted view of how the different states are handeling the virus. It's clear that the state of New York has the most cases of COVID-19. In the next plot, the data has been normalized based on the population in the states, and it gives a better picture of how "good" the different states are handeling the virus outbreak. 
+The first plot illustrates the distribution of dead people in the different US states. Of course this can give a twisted view of how the different states are handling the virus. It's clear that the state of New York has the most cases of COVID-19. In the next plot, the data has been normalized based on the population in the states, and it gives a better picture of how "good" the different states are handling the virus outbreak. 
 
 
 ![alt text](https://raw.githubusercontent.com/PeterHolmsoe/Social_data_final_report/master/death.png)
@@ -20,17 +20,17 @@ Again, we see that New York is the worst, however, many factors are involved, eg
 <iframe src="https://demo-map-us.herokuapp.com/pop-notebook" width="800" height="525"></iframe>
 </p>
 
-The above graph contains a wide range of information about each state such as average income, poverty, unemployement rate, gender distribution and race distribution. The important takeaway from this plot is the color coded population density, as a state with a high population density is far more in the risk zone of spreading an epidimic compared to a low population density. The effect of a high population density on the spread of covid-19 can especially be seen in the state of New York, as this is one of the states with a high population density, where the outbreak has been worst. 
+The above graph contains a wide range of information about each state such as average income, poverty, unemployment rate, gender distribution and race distribution. The important takeaway from this plot is the color-coded population density, as a state with a high population density is far more in the risk zone of spreading an epidimic compared to a low population density. The effect of a high population density on the spread of covid-19 can especially be seen in the state of New York, as this is one of the states with a high population density, where the outbreak has been worst. 
 
 COVID-19 has proven to be a dangerous and deadly epidemic. In order to emphasize how serious covid-19 is, one can look at the development of casualties due to COVID-19 has developed in the US in the following gif.
 
 <iframe src="https://giphy.com/embed/UrnyxJmrg5x8qKJ2XY" width="960" height="512" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
-The above gif shows the exponential nature of a epidimic like covid-19, as there are very few deaths in the beginning, however once the number of people infected slowly starts to ramp up, the numbers goes up really fast.
+The above gif shows the exponential nature of a epidemic like covid-19, as there are very few deaths in the beginning, however once the number of people infected slowly starts to ramp up, the numbers goes up really fast.
 
 ## Politcal testing strategy
 
-The number of confirmed cases can sometimes be confusing, as the number of confirmed cases is not equal to the total number of cases. The number of confirmed cases is highly proportional to the number of tests being made in each state. Hence it is interesting to look at the total number of test over time in different states. The test strategy is high in New York (NY). This makes sense since they are the worst affected state. However, it's interesting to notice how California (CA) performes many tests even though the spread of the virus isn't that severe in that state.  
+The number of confirmed cases can sometimes be confusing, as the number of confirmed cases is not equal to the total number of cases. The number of confirmed cases is highly proportional to the number of tests being made in each state. Hence it is interesting to look at the total number of tests over time in different states. The test strategy is high in New York (NY). This makes sense since they are the worst affected state. However, it's interesting to notice how California (CA) performs many tests even though the spread of the virus isn't that severe in that state.  
 
 ![alt text](https://raw.githubusercontent.com/PeterHolmsoe/Social_data_final_report/master/posneg.png)
 
@@ -48,7 +48,7 @@ We see how New York suddenly goes very dark, and how the virus quickly can get o
 
 In the interactive map under, you can yourself see the spread of COVID-19 in the different US state. 
 
-(For the teacher: The plot is served on a Heroku serve, which is not super fast. If it doesn't work, reload the page and wait a minut or two)
+(For the teacher: The plot is served on a Heroku serve, which is not super fast. If it does not work, reload the page and wait a minut or two)
 
 <p align="center">
 <iframe src="https://trond123fred.herokuapp.com/interactive_map" width="800" height="525"></iframe>
@@ -64,11 +64,11 @@ In the following interactive graph, you can see how the deaths due to COVID-19 h
 <iframe src="https://cover-death.herokuapp.com/myapp3" width="750" height="525"></iframe>
 </p>
 
-All states has the same vertical axis in order to show the relative impact of covid-19 in each state. Again, it can be seen that the number of deaths growths expontentially and roughly follow the same pattern, but on different scales throughout all states.
+All states have the same vertical axis in order to show the relative impact of covid-19 in each state. Again, it can be seen that the number of deaths growths exponentially and roughly follow the same pattern, but on different scales throughout all states.
 
-# Falttening the curve - how machine learning lets us know when to loosen regulative initiatives
+# Flattening the curve - how machine learning lets us know when to loosen regulative initiatives
 
-When talking about flattening the curve, the idea is that it is desired to minimize the number of Corona infections such that the health care capacity can handle the extra load that COVID-19 is causing. It is wellknown that an epidemic like the corona virus grows exponentially in the beginning before it starts to slow down. As humans, it is hard to wrapping your head around exponentially growth as it is hard to realize how fast an epidemic grows and locate when the growth might start to slow down. One of the big questions people might wonder is if each state is lowering the number of infections over time or that the growth of COVID-19 is still exponential. This question alone is hard to answer from simple plots like the ones seen previously in this article, which is the main motivation behind the following graph:
+When talking about flattening the curve, the idea is that it is desired to minimize the number of Corona infections such that the health care capacity can handle the extra load that COVID-19 is causing. It is well-known that an epidemic like the corona virus grows exponentially in the beginning before it starts to slow down. As humans, it is hard to wrapping your head around exponentially growth as it is hard to realize how fast an epidemic grows and locate when the growth might start to slow down. One of the big questions people might wonder is if each state is lowering the number of infections over time or that the growth of COVID-19 is still exponential. This question alone is hard to answer from simple plots like the ones seen previously in this article, which is the main motivation behind the following graph:
 
 
 <p align="center">
