@@ -46,7 +46,7 @@ We see how New York suddenly goes very dark, and how the virus quickly can get o
 
 ## Explore the spread
 
-In the interactive map under, you can yourself see the spread of COVID-19 in the different US state. 
+In the following interactive map, one can see the spread of COVID-19 in the different US state. 
 
 (For the teacher: The plot is served on a Heroku serve, which is not super fast. If it does not work, reload the page and wait a minut or two)
 
