@@ -30,7 +30,7 @@ The above gif shows the exponential nature of a epidimic like covid-19, as there
 
 ## Politcal testing strategy
 
-The test strategy is high in New York (NY), this makes sense since they are the worst affected state. However, it's interesting to notice how California (CA) performes many tests even though the spread of the virus isn't that severe in that state.  
+The number of confirmed cases can sometimes be confusing, as the number of confirmed cases is not equal to the total number of cases. The number of confirmed cases is highly proportional to the number of tests being made in each state. Hence it is interesting to look at the total number of test over time in different states. The test strategy is high in New York (NY). This makes sense since they are the worst affected state. However, it's interesting to notice how California (CA) performes many tests even though the spread of the virus isn't that severe in that state.  
 
 ![alt text](https://raw.githubusercontent.com/PeterHolmsoe/Social_data_final_report/master/posneg.png)
 
