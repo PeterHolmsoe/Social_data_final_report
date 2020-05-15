@@ -64,6 +64,8 @@ In the following interactive graph, you can see how the deaths due to COVID-19 h
 <iframe src="https://cover-death.herokuapp.com/myapp3" width="750" height="525"></iframe>
 </p>
 
+All states has the same vertical axis in order to show the relative impact of covid-19 in each state. Again, it can be seen that the number of deaths growths expontentially and roughly follow the same pattern, but on different scales throughout all states.
+
 # Falttening the curve - how machine learning lets us know when to loosen regulative initiatives
 
 When talking about flattening the curve, the idea is that it is desired to minimize the number of Corona infections such that the health care capacity can handle the extra load that COVID-19 is causing. It is wellknown that an epidemic like the corona virus grows exponentially in the beginning before it starts to slow down. As humans, it is hard to wrapping your head around exponentially growth as it is hard to realize how fast an epidemic grows and locate when the growth might start to slow down. One of the big questions people might wonder is if each state is lowering the number of infections over time or that the growth of COVID-19 is still exponential. This question alone is hard to answer from simple plots like the ones seen previously in this article, which is the main motivation behind the following graph:
