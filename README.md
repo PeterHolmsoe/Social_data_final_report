@@ -1,6 +1,16 @@
+The full website for the hand-in can be found here:
+
 <p align="center">
 Link to website: https://peterholmsoe.github.io/Social_data_final_report/
 </p>
+
+And the explainer notebook can be found here:
+
+<p align="center">
+Link to website: https://github.com/PeterHolmsoe/Social_data_final_report/blob/master/Explainer-notebook.ipynb
+</p>
+
+
 
 # Visualization of the covid-19 outbreak in the USA.
 
